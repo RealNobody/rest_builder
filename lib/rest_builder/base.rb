@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
 module RestBuilder
-  class ApplicationJob < ActiveJob::Base
+  class Base
   end
 end
